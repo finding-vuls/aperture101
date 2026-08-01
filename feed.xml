@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Aperture</title>
+    <link href="https://finding-vuls.github.io/aperture101/feed.xml" rel="self" />
+    <link href="https://finding-vuls.github.io/aperture101" />
+    <updated>2026-07-31T17:16:43+08:00</updated>
+    <author>
+        <name>YYY123</name>
+    </author>
+    <id>https://finding-vuls.github.io/aperture101</id>
+
+    <entry>
+        <title>About</title>
+        <author>
+            <name>YYY123</name>
+        </author>
+        <link href="https://finding-vuls.github.io/aperture101/about.html"/>
+        <id>https://finding-vuls.github.io/aperture101/about.html</id>
+
+        <updated>2026-07-31T17:16:43+08:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Telling stories from around the world — different people, different beliefs, different souls, each with their own unique life.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    Telling stories from around the world — different people, different beliefs, different souls, each with their own unique life.<br>
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>

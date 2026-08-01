@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Aperture",
+    "description": "",
+    "home_page_url": "https://finding-vuls.github.io/aperture101",
+    "feed_url": "https://finding-vuls.github.io/aperture101/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "YYY123"
+    },
+    "items": [
+        {
+            "id": "https://finding-vuls.github.io/aperture101/about.html",
+            "url": "https://finding-vuls.github.io/aperture101/about.html",
+            "title": "About",
+            "summary": "Telling stories from around the world — different people, different beliefs, different souls, each with their own unique life.",
+            "content_html": "\n  <p>\n    Telling stories from around the world — different people, different beliefs, different souls, each with their own unique life.<br>\n  </p>",
+            "author": {
+                "name": "YYY123"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-07-31T17:16:43+08:00",
+            "date_modified": "2026-07-31T17:16:43+08:00"
+        }
+    ]
+}
