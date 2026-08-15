@@ -3,14 +3,14 @@
     <title>Aperture</title>
     <link href="https://finding-vuls.github.io/aperture101/feed.xml" rel="self" />
     <link href="https://finding-vuls.github.io/aperture101" />
-    <updated>2026-08-02T21:27:23+08:00</updated>
+    <updated>2026-08-15T17:37:53+08:00</updated>
     <author>
         <name>YYY123</name>
     </author>
     <id>https://finding-vuls.github.io/aperture101</id>
 
     <entry>
-        <title>About</title>
+        <title>关于</title>
         <author>
             <name>YYY123</name>
         </author>
@@ -20,14 +20,14 @@
         <updated>2026-07-31T17:16:43+08:00</updated>
             <summary type="html">
                 <![CDATA[
-                    Telling stories from around the world — different people, different beliefs, different souls, each with their own unique life.
+                    分享各种产品的使用体验和窍门。
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 
   <p>
-    Telling stories from around the world — different people, different beliefs, different souls, each with their own unique life.<br>
+    分享各种产品的使用体验和窍门。<br>
   </p>
             ]]>
         </content>
