@@ -1,33 +1,86 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>Aperture</title>
+    <title>Aperture101</title>
     <link href="https://finding-vuls.github.io/aperture101/feed.xml" rel="self" />
     <link href="https://finding-vuls.github.io/aperture101" />
-    <updated>2026-08-15T17:44:37+08:00</updated>
+    <updated>2026-09-01T21:07:44+08:00</updated>
     <author>
         <name>YYY123</name>
     </author>
     <id>https://finding-vuls.github.io/aperture101</id>
 
     <entry>
-        <title>关于</title>
+        <title>About Garmin Fenix 9</title>
         <author>
-            <name>郭隗</name>
+            <name>Liam</name>
         </author>
         <link href="https://finding-vuls.github.io/aperture101/about.html"/>
         <id>https://finding-vuls.github.io/aperture101/about.html</id>
+        <media:content url="https://finding-vuls.github.io/aperture101/media/posts/1/v2-99722dd7752d389c1b839e067ba05f3b_r.png" medium="image" />
+            <category term="ports &amp; Outdoors"/>
+            <category term="Electronics"/>
 
         <updated>2026-07-31T17:16:43+08:00</updated>
             <summary type="html">
                 <![CDATA[
-                    分享各种产品的使用体验和窍门。
+                        <img src="https://finding-vuls.github.io/aperture101/media/posts/1/v2-99722dd7752d389c1b839e067ba05f3b_r.png" alt="New Elevate 6 Optical Heart Rate Sensor" />
+                    Upgrades to Look Forward To 1. New Elevate 6 Optical Heart Rate Sensor Garmin hasn't updated its optical heart rate sensor in a long time. The Elevate 6 is said to improve accuracy. It may also bring new health features like sweat/pressure monitoring and background&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://finding-vuls.github.io/aperture101/media/posts/1/v2-99722dd7752d389c1b839e067ba05f3b_r.png" class="type:primaryImage" alt="New Elevate 6 Optical Heart Rate Sensor" /></p>
                 
   <p>
-    分享各种产品的使用体验和窍门。<br>
+    <strong>Upgrades to Look Forward To
+<br></strong>
+<br>1. New Elevate 6 Optical Heart Rate Sensor
+<br>
+<br>Garmin hasn't updated its optical heart rate sensor in a long time. The Elevate 6 is said to improve accuracy. It may also bring new health features like sweat/pressure monitoring and background irregular heartbeat detection.
+<br>
+  </p>
+
+  <p>
+    2. 5G Redcap + Satellite Messaging<br><br>The Fenix 8 Pro already has LTE and satellite features. But they made the watch thicker and shortened battery life. The Fenix 9 will focus on making these technologies better – thinner, more power-efficient, and more stable. Also, 5G Redcap (a lighter version of 5G) might appear on a watch for the first time.
+  </p>
+
+  <p>
+    3. A More Mature MicroLED Screen
+<br>
+<br>The MicroLED version of the Fenix 8 Pro was impressive, but Garmin admitted it also made the watch thicker and drained the battery faster. The Fenix 9 may bring a second-generation MicroLED that actually delivers on the promise of saving power. I used a Fenix 8 Pro for two days back in October 2025, and I wasn't that impressed. It didn't feel like a big upgrade – it just seemed to use more battery.
+<br>
+<br>4. A Stronger Processor
+<br>
+<br>The Fenix series has used the same processor platform for three generations now (the frx55 Fenix 7 in 2022, the fr65 and Fenix 7P in 2023, the Fenix 8 in 2024, and the fr70 in 2025). It's very likely that the Fenix 9 will get a new chip. Hopefully, that means smoother UI response and better energy efficiency. This could be the biggest highlight of the upgrade.
+<br>
+<br>
+<br>5. 43mm Size Gets Premium Features
+<br>
+<br>On the Fenix 8 Pro, the LTE and satellite features didn't come to the smaller 43mm version. The Fenix 9 might finally give small-wrist users all the flagship functions too.
+<br>
+
+  </p>
+
+  <p>
+    <strong>What Users Really Want
+<br></strong>
+<br>Looking around online, Fenix users actually have pretty simple wishes:
+<br>
+<br>- Thinner body (the Fenix 8 Pro is really too thick)
+<br>- Bigger screen-to-body ratio
+<br>- Fewer bugs (you know what I mean)
+<br>- Smarter health and GPS tools
+<br>
+
+  </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://finding-vuls.github.io/aperture101/media/posts/1/v2-fdaf738aead8a0b7d5ff93d4eeaf466c_r.png" height="954" width="1032" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://finding-vuls.github.io/aperture101/media/posts/1/responsive/v2-fdaf738aead8a0b7d5ff93d4eeaf466c_r-xs.png 640w ,https://finding-vuls.github.io/aperture101/media/posts/1/responsive/v2-fdaf738aead8a0b7d5ff93d4eeaf466c_r-sm.png 768w ,https://finding-vuls.github.io/aperture101/media/posts/1/responsive/v2-fdaf738aead8a0b7d5ff93d4eeaf466c_r-md.png 1024w ,https://finding-vuls.github.io/aperture101/media/posts/1/responsive/v2-fdaf738aead8a0b7d5ff93d4eeaf466c_r-lg.png 1366w ,https://finding-vuls.github.io/aperture101/media/posts/1/responsive/v2-fdaf738aead8a0b7d5ff93d4eeaf466c_r-xl.png 1600w ,https://finding-vuls.github.io/aperture101/media/posts/1/responsive/v2-fdaf738aead8a0b7d5ff93d4eeaf466c_r-2xl.png 1920w">
+      
+    </figure>
+
+  <p>
+    Most users don't need Garmin to do anything crazy. They just want the company to fix what needs fixing and optimize what needs optimizing.
   </p>
             ]]>
         </content>

@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Aperture",
+    "title": "Aperture101",
     "description": "",
     "home_page_url": "https://finding-vuls.github.io/aperture101",
     "feed_url": "https://finding-vuls.github.io/aperture101/feed.json",
@@ -12,16 +12,19 @@
         {
             "id": "https://finding-vuls.github.io/aperture101/about.html",
             "url": "https://finding-vuls.github.io/aperture101/about.html",
-            "title": "关于",
-            "summary": "分享各种产品的使用体验和窍门。",
-            "content_html": "\n  <p>\n    分享各种产品的使用体验和窍门。<br>\n  </p>",
+            "title": "About Garmin Fenix 9",
+            "summary": "Upgrades to Look Forward To 1. New Elevate 6 Optical Heart Rate Sensor Garmin hasn't updated its optical heart rate sensor in a long time. The Elevate 6 is said to improve accuracy. It may also bring new health features like sweat/pressure monitoring and background&hellip;",
+            "content_html": "\n  <p>\n    <strong>Upgrades to Look Forward To\n<br></strong>\n<br>1. New Elevate 6 Optical Heart Rate Sensor\n<br>\n<br>Garmin hasn't updated its optical heart rate sensor in a long time. The Elevate 6 is said to improve accuracy. It may also bring new health features like sweat/pressure monitoring and background irregular heartbeat detection.\n<br>\n  </p>\n\n  <p>\n    2. 5G Redcap + Satellite Messaging<br><br>The Fenix 8 Pro already has LTE and satellite features. But they made the watch thicker and shortened battery life. The Fenix 9 will focus on making these technologies better – thinner, more power-efficient, and more stable. Also, 5G Redcap (a lighter version of 5G) might appear on a watch for the first time.\n  </p>\n\n  <p>\n    3. A More Mature MicroLED Screen\n<br>\n<br>The MicroLED version of the Fenix 8 Pro was impressive, but Garmin admitted it also made the watch thicker and drained the battery faster. The Fenix 9 may bring a second-generation MicroLED that actually delivers on the promise of saving power. I used a Fenix 8 Pro for two days back in October 2025, and I wasn't that impressed. It didn't feel like a big upgrade – it just seemed to use more battery.\n<br>\n<br>4. A Stronger Processor\n<br>\n<br>The Fenix series has used the same processor platform for three generations now (the frx55 Fenix 7 in 2022, the fr65 and Fenix 7P in 2023, the Fenix 8 in 2024, and the fr70 in 2025). It's very likely that the Fenix 9 will get a new chip. Hopefully, that means smoother UI response and better energy efficiency. This could be the biggest highlight of the upgrade.\n<br>\n<br>\n<br>5. 43mm Size Gets Premium Features\n<br>\n<br>On the Fenix 8 Pro, the LTE and satellite features didn't come to the smaller 43mm version. The Fenix 9 might finally give small-wrist users all the flagship functions too.\n<br>\n\n  </p>\n\n  <p>\n    <strong>What Users Really Want\n<br></strong>\n<br>Looking around online, Fenix users actually have pretty simple wishes:\n<br>\n<br>- Thinner body (the Fenix 8 Pro is really too thick)\n<br>- Bigger screen-to-body ratio\n<br>- Fewer bugs (you know what I mean)\n<br>- Smarter health and GPS tools\n<br>\n\n  </p>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://finding-vuls.github.io/aperture101/media/posts/1/v2-fdaf738aead8a0b7d5ff93d4eeaf466c_r.png\" height=\"954\" width=\"1032\" alt=\"\"  sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://finding-vuls.github.io/aperture101/media/posts/1/responsive/v2-fdaf738aead8a0b7d5ff93d4eeaf466c_r-xs.png 640w ,https://finding-vuls.github.io/aperture101/media/posts/1/responsive/v2-fdaf738aead8a0b7d5ff93d4eeaf466c_r-sm.png 768w ,https://finding-vuls.github.io/aperture101/media/posts/1/responsive/v2-fdaf738aead8a0b7d5ff93d4eeaf466c_r-md.png 1024w ,https://finding-vuls.github.io/aperture101/media/posts/1/responsive/v2-fdaf738aead8a0b7d5ff93d4eeaf466c_r-lg.png 1366w ,https://finding-vuls.github.io/aperture101/media/posts/1/responsive/v2-fdaf738aead8a0b7d5ff93d4eeaf466c_r-xl.png 1600w ,https://finding-vuls.github.io/aperture101/media/posts/1/responsive/v2-fdaf738aead8a0b7d5ff93d4eeaf466c_r-2xl.png 1920w\">\n      \n    </figure>\n\n  <p>\n    Most users don't need Garmin to do anything crazy. They just want the company to fix what needs fixing and optimize what needs optimizing.\n  </p>",
+            "image": "https://finding-vuls.github.io/aperture101/media/posts/1/v2-99722dd7752d389c1b839e067ba05f3b_r.png",
             "author": {
-                "name": "郭隗"
+                "name": "Liam"
             },
             "tags": [
+                   "ports &amp; Outdoors",
+                   "Electronics"
             ],
             "date_published": "2026-07-31T17:16:43+08:00",
-            "date_modified": "2026-08-15T17:44:37+08:00"
+            "date_modified": "2026-09-01T21:07:44+08:00"
         }
     ]
 }
