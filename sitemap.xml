@@ -1,38 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://finding-vuls.github.io/aperture101/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://aperture101.eu.cc/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://finding-vuls.github.io/aperture101/</loc>
+<loc>https://aperture101.eu.cc/</loc>
 </url>
 <url>
-<loc>https://finding-vuls.github.io/aperture101/about.html</loc>
+<loc>https://aperture101.eu.cc/about.html</loc>
 <lastmod>2026-09-01T21:07:44+08:00</lastmod>
 <image:image>
-<image:loc>https://finding-vuls.github.io/aperture101/media/posts/1/v2-99722dd7752d389c1b839e067ba05f3b_r.png</image:loc>
+<image:loc>https://aperture101.eu.cc/media/posts/1/v2-99722dd7752d389c1b839e067ba05f3b_r.png</image:loc>
 <image:title><![CDATA[New Elevate 6 Optical Heart Rate Sensor]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://finding-vuls.github.io/aperture101/media/posts/1/v2-fdaf738aead8a0b7d5ff93d4eeaf466c_r.png</image:loc>
+<image:loc>https://aperture101.eu.cc/media/posts/1/v2-fdaf738aead8a0b7d5ff93d4eeaf466c_r.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://finding-vuls.github.io/aperture101/bbb.html</loc>
+<loc>https://aperture101.eu.cc/bbb.html</loc>
 <lastmod>2026-09-02T08:35:32+08:00</lastmod>
 </url>
 <url>
-<loc>https://finding-vuls.github.io/aperture101/samsung-galaxy-s26.html</loc>
+<loc>https://aperture101.eu.cc/samsung-galaxy-s26.html</loc>
 <lastmod>2026-09-02T09:48:37+08:00</lastmod>
 <image:image>
-<image:loc>https://finding-vuls.github.io/aperture101/media/posts/3/Snipaste_2026-09-02_09-43-51.jpg</image:loc>
+<image:loc>https://aperture101.eu.cc/media/posts/3/Snipaste_2026-09-02_09-43-51.jpg</image:loc>
 <image:title><![CDATA[Samsung Galaxy S26]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://finding-vuls.github.io/aperture101/media/posts/3/Snipaste_2026-09-02_09-45-24.jpg</image:loc>
+<image:loc>https://aperture101.eu.cc/media/posts/3/Snipaste_2026-09-02_09-45-24.jpg</image:loc>
 <image:title><![CDATA[Samsung Galaxy S26+]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://finding-vuls.github.io/aperture101/media/posts/3/Snipaste_2026-09-02_09-47-23.jpg</image:loc>
+<image:loc>https://aperture101.eu.cc/media/posts/3/Snipaste_2026-09-02_09-47-23.jpg</image:loc>
 <image:title><![CDATA[Samsung Galaxy S26 Ultra]]></image:title>
 </image:image>
 </url>
