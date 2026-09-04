@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://aperture101.eu.cc/iphone-18-standard-model-going-with-9gb-of-ram.html",
+            "url": "https://aperture101.eu.cc/iphone-18-standard-model-going-with-9gb-of-ram.html",
+            "title": "iPhone 18 standard model going with 9GB of RAM",
+            "summary": "Instead of keeping 8GB or jumping straight to 12GB, Apple decided to give the iPhone 18 standard model 9GB of RAM—using six 1.5GB memory chips. The real reason behind this odd number? One simple word: AI. Sure, 8GB of RAM can run iOS 26 and&hellip;",
+            "content_html": "<p class=\"ds-markdown-paragraph\"><span class=\"\">Instead of keeping 8GB or jumping straight to 12GB, Apple decided to give the iPhone 18 standard model 9GB of RAM—using six 1.5GB memory chips. The real reason behind this odd number? One simple word: AI.</span></p>\n<p class=\"ds-markdown-paragraph\"><span class=\"\">Sure, 8GB of RAM can run iOS 26 and iOS 27 smoothly enough for everyday use—apps open fast, scrolling is fluid, no complaints there. But when you throw Apple Intelligence into the mix, things get tight.</span></p>\n<p class=\"ds-markdown-paragraph\"><span class=\"\">According to Apple's docs, its AI comes in two tiers: a basic model called AFM 3 Core, and a more advanced version called AFM 3 Core Advanced.</span></p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://aperture101.eu.cc/media/posts/9/Snipaste_2026-09-04_11-43-04.jpg\" alt=\"iPhone 18\" width=\"1915\" height=\"1030\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://aperture101.eu.cc/media/posts/9/responsive/Snipaste_2026-09-04_11-43-04-xs.jpg 640w ,https://aperture101.eu.cc/media/posts/9/responsive/Snipaste_2026-09-04_11-43-04-sm.jpg 768w ,https://aperture101.eu.cc/media/posts/9/responsive/Snipaste_2026-09-04_11-43-04-md.jpg 1024w ,https://aperture101.eu.cc/media/posts/9/responsive/Snipaste_2026-09-04_11-43-04-lg.jpg 1366w ,https://aperture101.eu.cc/media/posts/9/responsive/Snipaste_2026-09-04_11-43-04-xl.jpg 1600w ,https://aperture101.eu.cc/media/posts/9/responsive/Snipaste_2026-09-04_11-43-04-2xl.jpg 1920w\"></figure>\n<p class=\"ds-markdown-paragraph\"><span class=\"\">The basic model has about 3 billion parameters. It only takes up a few hundred MB when sitting idle in the background, but when it's actually doing something—like generating text or processing an image—it can eat up 2 to 3GB of RAM. At the same time, iOS needs to reserve plenty of memory for system services, core frameworks, third‑party apps, and background tasks. So when you're running several apps at once and one of them triggers AI processing, memory pressure can spike. The system then has no choice but to shut down some background apps—what we call \"killing the back‑end.\"</span></p>\n<p class=\"ds-markdown-paragraph\"><span class=\"\">That extra 1GB on the iPhone 18 standard model starts to make sense here. It won't unlock the advanced AI model, but it does give the basic AI a \"safety buffer.\" That means smoother performance overall—no stuttering, no crashes, no sudden app closures. The AI and the rest of the system can coexist peacefully for the long haul.</span></p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://aperture101.eu.cc/media/posts/9/Snipaste_2026-09-04_11-43-12.jpg\" alt=\"iPhone 18\" width=\"1850\" height=\"1064\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://aperture101.eu.cc/media/posts/9/responsive/Snipaste_2026-09-04_11-43-12-xs.jpg 640w ,https://aperture101.eu.cc/media/posts/9/responsive/Snipaste_2026-09-04_11-43-12-sm.jpg 768w ,https://aperture101.eu.cc/media/posts/9/responsive/Snipaste_2026-09-04_11-43-12-md.jpg 1024w ,https://aperture101.eu.cc/media/posts/9/responsive/Snipaste_2026-09-04_11-43-12-lg.jpg 1366w ,https://aperture101.eu.cc/media/posts/9/responsive/Snipaste_2026-09-04_11-43-12-xl.jpg 1600w ,https://aperture101.eu.cc/media/posts/9/responsive/Snipaste_2026-09-04_11-43-12-2xl.jpg 1920w\"></figure>\n<p class=\"ds-markdown-paragraph\"><span class=\"\">As for the iPhone 18 Pro, it runs the advanced AFM 3 Core Advanced model, which packs a massive 200 billion parameters. Apple loads different parts of the model as needed, depending on the task, so it usually takes up somewhere between 1 and 4GB of RAM. With 12GB of memory, the Pro has more than enough room to handle it without breaking a sweat.</span></p>",
+            "author": {
+                "name": "Oliver"
+            },
+            "tags": [
+                   "Technology",
+                   "Electronics"
+            ],
+            "date_published": "2026-09-04T11:44:53+08:00",
+            "date_modified": "2026-09-04T11:44:53+08:00"
+        },
+        {
             "id": "https://aperture101.eu.cc/nvidia-unveils-dlss-5-tech-docs.html",
             "url": "https://aperture101.eu.cc/nvidia-unveils-dlss-5-tech-docs.html",
             "title": "NVIDIA Unveils DLSS 5 Tech Docs",
@@ -52,9 +68,10 @@
                 "name": "Charlotte"
             },
             "tags": [
+                   "Electronics"
             ],
             "date_published": "2026-09-03T18:00:29+08:00",
-            "date_modified": "2026-09-03T19:55:40+08:00"
+            "date_modified": "2026-09-04T11:45:05+08:00"
         },
         {
             "id": "https://aperture101.eu.cc/rayneo-io.html",
@@ -66,9 +83,10 @@
                 "name": "Emma"
             },
             "tags": [
+                   "Electronics"
             ],
             "date_published": "2026-09-03T14:25:22+08:00",
-            "date_modified": "2026-09-03T19:56:22+08:00"
+            "date_modified": "2026-09-04T11:45:11+08:00"
         },
         {
             "id": "https://aperture101.eu.cc/iphone-18-pro.html",
@@ -95,9 +113,10 @@
                 "name": "Emma"
             },
             "tags": [
+                   "Electronics"
             ],
             "date_published": "2026-09-02T09:47:50+08:00",
-            "date_modified": "2026-09-03T19:57:02+08:00"
+            "date_modified": "2026-09-04T11:45:18+08:00"
         },
         {
             "id": "https://aperture101.eu.cc/about.html",
