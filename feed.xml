@@ -3,12 +3,81 @@
     <title>Aperture101</title>
     <link href="https://aperture101.eu.cc/feed.xml" rel="self" />
     <link href="https://aperture101.eu.cc" />
-    <updated>2026-09-03T19:58:25+08:00</updated>
+    <updated>2026-09-04T10:56:58+08:00</updated>
     <author>
         <name>YYY123</name>
     </author>
     <id>https://aperture101.eu.cc</id>
 
+    <entry>
+        <title>NVIDIA Unveils DLSS 5 Tech Docs</title>
+        <author>
+            <name>Noah</name>
+        </author>
+        <link href="https://aperture101.eu.cc/nvidia-unveils-dlss-5-tech-docs.html"/>
+        <id>https://aperture101.eu.cc/nvidia-unveils-dlss-5-tech-docs.html</id>
+            <category term="Technology"/>
+            <category term="Games"/>
+
+        <updated>2026-09-04T10:56:05+08:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Today (Sept 2), NVIDIA publicly released the technical documentation for DLSS 5. Under the hood, DLSS 5 uses a compact Transformer model with just 0.154 billion parameters. Its attention layers borrow from the DLSS 4 architecture, but the overall structure has been refined through automated&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p class="ds-markdown-paragraph"><span class="">Today (Sept 2), NVIDIA publicly released the technical documentation for DLSS 5.</span></p>
+<p class="ds-markdown-paragraph"><span class="">Under the hood, DLSS 5 uses a compact Transformer model with just 0.154 billion parameters. Its attention layers borrow from the DLSS 4 architecture, but the overall structure has been refined through automated architecture search to make it more Tensor Core‑friendly. That said, the current version is still experimental. The model runs on FP8 quantization, with a few numerically sensitive parts kept in FP16. NVIDIA claims this makes inference roughly twice as fast as the FP16 version, with only a tiny quality trade‑off.</span></p>
+<p class="ds-markdown-paragraph"><span class="">The model is also optimized specifically for the Blackwell architecture (RTX 50 series) plus TMA instructions. That's why, even though some modders have tried to unlock it for older cards, the 40‑series can barely run it while the 20‑ and 30‑series are completely out of luck.</span></p>
+<p class="ds-markdown-paragraph"><strong><span class="">Performance &amp; Memory Footprint</span></strong></p>
+<p class="ds-markdown-paragraph"><span class="">On an RTX 5090, DLSS 5 currently takes about 8 milliseconds per 4K frame, with peak VRAM usage hitting 731 MB—and that memory is shared with the game's own usage. The model offers three different presets for handling style, letting you tweak structure and color tone separately through a control panel. You can also choose between manual or automatic masking for specific areas.</span></p>
+<p class="ds-markdown-paragraph"><span class="">In blind tests where users judged how realistic the output looked, NVIDIA said DLSS 5's overall results were on par with GPT image2 and slightly ahead of Gemini 3 Pro, while its character rendering was significantly better than both. But NVIDIA also admitted that for heavily stylized games—like pixel art, illustration, or cartoon styles—the current version of DLSS 5 can actually make things look worse.</span></p>
+<figure class="post__image"><img loading="lazy"  src="https://aperture101.eu.cc/media/posts/8/Snipaste_2026-09-04_10-55-07.jpg" alt="DLSS5" width="1917" height="417" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://aperture101.eu.cc/media/posts/8/responsive/Snipaste_2026-09-04_10-55-07-xs.jpg 640w ,https://aperture101.eu.cc/media/posts/8/responsive/Snipaste_2026-09-04_10-55-07-sm.jpg 768w ,https://aperture101.eu.cc/media/posts/8/responsive/Snipaste_2026-09-04_10-55-07-md.jpg 1024w ,https://aperture101.eu.cc/media/posts/8/responsive/Snipaste_2026-09-04_10-55-07-lg.jpg 1366w ,https://aperture101.eu.cc/media/posts/8/responsive/Snipaste_2026-09-04_10-55-07-xl.jpg 1600w ,https://aperture101.eu.cc/media/posts/8/responsive/Snipaste_2026-09-04_10-55-07-2xl.jpg 1920w"></figure>
+<p class="ds-markdown-paragraph"><strong><span class="">Hands‑On Feel: A Mixed Bag</span></strong></p>
+<p class="ds-markdown-paragraph"><span class="">From what I've seen, the results are a mixed bag. In photorealistic games, DLSS 5 can produce stunning, almost jaw‑dropping images. But if you throw it at anime‑style or cel‑shaded titles, the character faces might end up triggering some serious "uncanny valley" vibes.</span></p>
+<p class="ds-markdown-paragraph"><span class="">Basically, DLSS 5's neural rendering acts like a "realism filter" for games. It's especially good at breathing new life into older AAA titles with realistic graphics. The catch? The AI's aesthetic is stubbornly fixed on "photo‑realism." It can't tell the difference between a deliberate art style and just "unrealistic" visuals. So for now, the smartest move is to use it only for environments, objects, and lighting in non‑photorealistic games—and leave character faces out of DLSS 5's hands entirely.</span></p>
+<figure class="post__image"><img loading="lazy"  src="https://aperture101.eu.cc/media/posts/8/Snipaste_2026-09-04_10-55-14.jpg" alt="DLSS5" width="1945" height="986" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://aperture101.eu.cc/media/posts/8/responsive/Snipaste_2026-09-04_10-55-14-xs.jpg 640w ,https://aperture101.eu.cc/media/posts/8/responsive/Snipaste_2026-09-04_10-55-14-sm.jpg 768w ,https://aperture101.eu.cc/media/posts/8/responsive/Snipaste_2026-09-04_10-55-14-md.jpg 1024w ,https://aperture101.eu.cc/media/posts/8/responsive/Snipaste_2026-09-04_10-55-14-lg.jpg 1366w ,https://aperture101.eu.cc/media/posts/8/responsive/Snipaste_2026-09-04_10-55-14-xl.jpg 1600w ,https://aperture101.eu.cc/media/posts/8/responsive/Snipaste_2026-09-04_10-55-14-2xl.jpg 1920w"></figure>
+<p class="ds-markdown-paragraph"><strong><span class="">Performance Costs (50‑Series Only for Now)</span></strong></p>
+<p class="ds-markdown-paragraph"><span class="">Let's talk about the performance hit. On an RTX 5070 Ti running Cyberpunk 2077 at 4K, you get about 70+ fps with DLSS 5 off. Turn it on, and it drops to around 35 fps—nearly half the performance. If you also want to enable path tracing, you'd better be sitting on a 5080 or 5090, or just forget about it.</span></p>
+<p class="ds-markdown-paragraph"><span class="">DLSS 5's neural rendering also eats up extra VRAM. In a few tests I checked, enabling DLSS 5 added anywhere from 240MB to 1.2GB of extra memory usage. On top of that, there's a memory overflow bug: when you tweak DLSS 5 or game settings, the game can crash due to VRAM exhaustion.</span></p>
+<p class="ds-markdown-paragraph"><strong><span class="">Bottom Line</span></strong></p>
+<p class="ds-markdown-paragraph"><span class="">DLSS 5 gives us a glimpse of the incredible potential of AI‑driven real‑time rendering—especially its power to revive the visuals of older games. At the same time, its heavy performance cost and the way it "brute‑forces" artistic styles present real challenges that will need to be solved going forward.</span></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>GoPro&#x27;s Fall: From $13 Billion to $285 Million</title>
+        <author>
+            <name>Charlotte</name>
+        </author>
+        <link href="https://aperture101.eu.cc/gopros-fall-from-13-billion-to-285-million.html"/>
+        <id>https://aperture101.eu.cc/gopros-fall-from-13-billion-to-285-million.html</id>
+            <category term="Stock Market"/>
+            <category term="Electronics"/>
+
+        <updated>2026-09-04T10:41:53+08:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    On September 1, action‑camera brand GoPro shocked the industry with a "sale" announcement. Under the deal, GoPro agreed to sell 90% of its shares to Starman Optical at $1.14 per share. The total transaction amount was about $285 million, and the deal is expected to&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p class="ds-markdown-paragraph"><span class="">On September 1, action‑camera brand GoPro shocked the industry with a "sale" announcement. Under the deal, GoPro agreed to sell 90% of its shares to Starman Optical at $1.14 per share. The total transaction amount was about $285 million, and the deal is expected to close by the end of 2026. At that time, GoPro's remaining debt of roughly $92 million will be wiped out in one go.</span></p>
+<p class="ds-markdown-paragraph"><span class="">To be more accurate, this wasn't really a buyout—it felt more like a merger. After the deal, GoPro's current shareholders will own about 10% of the new combined company. GoPro will still remain a publicly traded company and won't become a fully owned subsidiary of Starman Optical. This move not only brought fresh cash into GoPro, which was struggling on all sides, but also helped it pay off its debt. The stock market seemed to like the deal—GoPro's share price jumped sharply after the news.</span></p>
+<figure class="post__image"><img loading="lazy"  src="https://aperture101.eu.cc/media/posts/7/Snipaste_2026-09-04_10-40-56.jpg" alt="GoPro" width="1667" height="938" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://aperture101.eu.cc/media/posts/7/responsive/Snipaste_2026-09-04_10-40-56-xs.jpg 640w ,https://aperture101.eu.cc/media/posts/7/responsive/Snipaste_2026-09-04_10-40-56-sm.jpg 768w ,https://aperture101.eu.cc/media/posts/7/responsive/Snipaste_2026-09-04_10-40-56-md.jpg 1024w ,https://aperture101.eu.cc/media/posts/7/responsive/Snipaste_2026-09-04_10-40-56-lg.jpg 1366w ,https://aperture101.eu.cc/media/posts/7/responsive/Snipaste_2026-09-04_10-40-56-xl.jpg 1600w ,https://aperture101.eu.cc/media/posts/7/responsive/Snipaste_2026-09-04_10-40-56-2xl.jpg 1920w"></figure>
+<p class="ds-markdown-paragraph"><span class="">Let's rewind to 2014. GoPro made a big debut on the Nasdaq, with its market value peaking at over $13 billion. The year after its IPO, revenue hit an all‑time high of $1.62 billion, and the company held more than 75% of the global action‑camera market. Back then, GoPro was practically the name for action cameras. Its founder, Woodman, was even called "the next Steve Jobs" in the hardware world.</span></p>
+<p class="ds-markdown-paragraph"><span class="">No one at GoPro back then would have guessed that twelve years later, the company would be sold for just $285 million—a drop of nearly 99% in value—and would be close to going bankrupt and being delisted.</span></p>
+<p class="ds-markdown-paragraph"><span class="">So how did this company, which single‑handedly created the golden age of action cameras, fall so far?</span></p>
+<p class="ds-markdown-paragraph"><span class="">There were three fatal mistakes.</span></p>
+<p class="ds-markdown-paragraph"><span class="">First, GoPro spent heavily on drones and building its own media platform, but the drones were recalled, and the core camera business was put on hold for too long.</span></p>
+<p class="ds-markdown-paragraph"><span class="">Second, its upgrade cycle was too slow. It was completely outrun by the Shenzhen supply chain. Every new GoPro model only brought small, slow improvements—nothing exciting. It was expensive, not very smart, and slow to improve. Who would want to buy that?</span></p>
+<p class="ds-markdown-paragraph"><span class="">Third, GoPro lost key patent lawsuits. That meant it couldn't block its competitors, nor could it make money from its patents. Worse, the losses made it clear that its technological edge was no longer what it used to be.</span></p>
+<figure class="post__image"><img loading="lazy"  src="https://aperture101.eu.cc/media/posts/7/Snipaste_2026-09-04_10-41-07.jpg" alt="GoPro" width="1680" height="1182" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://aperture101.eu.cc/media/posts/7/responsive/Snipaste_2026-09-04_10-41-07-xs.jpg 640w ,https://aperture101.eu.cc/media/posts/7/responsive/Snipaste_2026-09-04_10-41-07-sm.jpg 768w ,https://aperture101.eu.cc/media/posts/7/responsive/Snipaste_2026-09-04_10-41-07-md.jpg 1024w ,https://aperture101.eu.cc/media/posts/7/responsive/Snipaste_2026-09-04_10-41-07-lg.jpg 1366w ,https://aperture101.eu.cc/media/posts/7/responsive/Snipaste_2026-09-04_10-41-07-xl.jpg 1600w ,https://aperture101.eu.cc/media/posts/7/responsive/Snipaste_2026-09-04_10-41-07-2xl.jpg 1920w"></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Hisense U8N Pro – A Quick Look</title>
         <author>
